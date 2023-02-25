@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{5BD9E95F-7CAC-C71D-7CD6-A73F792C0DD1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CarDetectorLinearScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CarDetectorScript.cs" Line="52" Column="3" />
+      <File FileName="Assets/Scripts/CarDetectorLinearScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LightDetectorLinearScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Trabalho_1_FIA" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="CarDetectorLinearScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="54e388b2-d177-4748-b847-6918f9bead0f" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
