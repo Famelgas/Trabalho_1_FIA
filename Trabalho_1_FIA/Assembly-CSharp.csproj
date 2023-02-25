@@ -64,6 +64,7 @@
     <Compile Include="Assets/Scripts/CarDetectorGaussScript.cs" />
     <Compile Include="Assets/Scripts/LightDetectorGaussScript.cs" />
     <Compile Include="Assets/Scripts/LightDetectorScript.cs" />
+    <Compile Include="Assets/Scripts/ObstacleDetectorScript.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
